@@ -7,11 +7,18 @@ This is my personal collection of dark theme for [Roam Research](https://roamres
 ### Roam Dark
 This is my default dark theme. Inspired by John Sundell's [Xcode theme](https://github.com/JohnSundell/XcodeTheme)
 
+![](/roam-dark.png)
+
 ### Roam Gotham
 This one is based on [Bear app](https://bear.app/) Gotham theme
 
+![](/roam-bear-gotham.png)
+
 ### Roam Panic
-This one is based on [Bear app](https://bear.app/) Gotham theme
+This one is based on [Bear app](https://bear.app/) Panic theme
+
+
+![](/roam-bear-panic.png)
 
 ## How to use
 You can use [Stylus](https://add0n.com/stylus.html) then copy paste the css to apply theme. 
