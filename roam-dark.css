@@ -13,13 +13,13 @@ body {
         font-weight: 900;
         cursor: pointer;
         font-size: 16px;
-        color: #2eb88c;
+        color: #6bdefe;
     }
 
 
     /* Background color for the rest of body */
     body {
-        background-color: #11151c;
+        background-color: #191919;
         font-size: 16px;
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         letter-spacing: -0.001em;
@@ -30,38 +30,38 @@ body {
 
     /* Header - Note title */
     .roam-app h1 {
-        color: #2eb88c !important;
+        color: #6bdefe !important;
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         font-weight: bold;
     }
 
     /* primary text colour */
     .roam-app {
-        color: #6aa9b9 !important;
+        color: #a4b9b9 !important;
     }
 
     /*topbar*/
     .roam-topbar {
-        background-color: #11151c;
-        border-bottom: 1px solid #1c373e;
+        background-color: #2b2b2b;
+        border-bottom: 1px solid #292929;
     }
 
     /*sidebar*/
     .roam-body .roam-app .roam-sidebar-container {
         background-color: #11151c;
-        border-right: 1px solid #1c373e;
+        border-right: 1px solid #292929;
     }
 
     .roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper {
-        color: #2eb88c;
+        color: #6bdefe;
     }
 
     .flex-v-box .starred-pages-wrapper:first-child {
-        background-color: #1c373e;
+        background-color: #292929;
     }
 
     .roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page {
-        color: #2eb88c
+        color: #6bdefe
     }
 
     .roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page:hover {
@@ -70,18 +70,18 @@ body {
 
     /*right sidebar*/
     #right-sidebar {
-        background-color: #11151c !important;
-        border-left: 1px solid #1c373e;
+        background-color: #1f1f1f !important;
+        border-left: 1px solid #292929;
         font-size: 15px;
     }
 
     #right-sidebar .flex-h-box .bp3-button .bp3-minimal .bp3-small {
-        color: #2eb88c;
+        color: #6bdefe;
     }
 
     /*border between page in daily notes*/
     .roam-log-container .roam-log-page {
-        border-top: 1px solid #1c373e;
+        border-top: 1px solid #292929;
     }
 
     /* hashtags */
@@ -94,11 +94,11 @@ body {
     }
 
     .block-border-left {
-        border-left: 1px solid #1c373e;
+        border-left: 1px solid #292929;
     }
 
     .rm-block-ref {
-        border-bottom: 1px solid #2eb88c;
+        border-bottom: 1px solid #6bdefe;
     }
 
     .rm-block-ref:hover {
@@ -134,7 +134,7 @@ body {
     }
 
     .rm-page-ref.rm-page-ref-link-color {
-        color: #f2825a;
+        color: #5DD8FF;
     }
 
     .rm-page-ref:hover {
@@ -142,28 +142,28 @@ body {
     }
 
     .rm-page-ref.rm-page-ref-link-color {
-        color: #f2825a;
+        color: #5DD8FF;
     }
 
     a {
-    color: #f2825a;
+    color: #5DD8FF;
     }
 
     a:focus {
-        color: #f2825a;
+        color: #5DD8FF;
     }
 
     a:hover {
-        color: #ff895e;
+        color: #5DD8FF;
     }
 
     .rm-level2 {
-        color: #2eb88c;
+        color: #6bdefe;
         font-weight: 700;
     }
 
     .rm-level3 {
-        color: #2eb88c;
+        color: #6bdefe;
         font-weight: 500;
     }
 
