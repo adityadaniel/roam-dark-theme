@@ -150,6 +150,14 @@ body {
     .rm-page-ref.rm-page-ref-link-color {
         color: #53c1dc;
     }
+    
+    /* the embed block reference */
+    
+    .rm-embed-container {
+        background-color: #172133;
+        border: 1px solid #1E3745;
+        border-radius: 4px;
+    }
 
     /* pop up page completion */
     .bp3-text-overflow-ellipsis {
